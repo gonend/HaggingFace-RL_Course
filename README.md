@@ -1,1 +1,1 @@
-# HaggingFace-RL_Course-Unit1
+# HaggingFace Reinforcement Learning Course
